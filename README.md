@@ -33,11 +33,11 @@ Registeration Number : 212220230027
 */
 ```
 
-```java
+
 
 
 ## Activity_Main.xml
-
+```xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -153,13 +153,13 @@ Registeration Number : 212220230027
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-
+```
 
 
 ##  MainActivity.java
 
 
-
+```java
 package com.example.studentinformation;
 
 import androidx.appcompat.app.AppCompatActivity;
